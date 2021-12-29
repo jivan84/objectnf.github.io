@@ -1,0 +1,10 @@
+https://www.zhouweitong.site/post/010-snort-1-intro/
+https://www.zhouweitong.site/post/007-linux-windows-tricks-03/
+https://www.zhouweitong.site/post/034-linux-windows-tricks-04/
+https://www.zhouweitong.site/post/005-ripping-training-basics-1/
+https://www.zhouweitong.site/post/032-dcc-soft-download-install/
+https://www.zhouweitong.site/post/019-hexo-new-things/
+https://www.zhouweitong.site/post/031-algorithm-generalized-list/
+https://www.zhouweitong.site/post/030-algorithm-outline/
+https://www.zhouweitong.site/post/033-algorithm-stack/
+https://www.zhouweitong.site/post/029-cmu-csapp-note-1/
