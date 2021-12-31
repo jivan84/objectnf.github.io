@@ -1,2 +1,0 @@
-# objectnf.github.io
-Blog
